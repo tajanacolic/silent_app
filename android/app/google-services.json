@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "419820643121",
+    "firebase_url": "https://silentapp-3645d.firebaseio.com",
+    "project_id": "silentapp-3645d",
+    "storage_bucket": "silentapp-3645d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419820643121:android:42e9731723b53f2dbb8610",
+        "android_client_info": {
+          "package_name": "com.silentapprn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419820643121-ligriah6483run70qb5vhos1506njfo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.silentapprn",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "419820643121-rd2sk20i62f9vpv9raakesj7si093aov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrESPEajV0eu9O26m2SPF9JWdxtxGxn_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419820643121-gs4glnih1385623skrhu16uj8k0a2rld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419820643121-96s58ll49l0vuel3t3rrmimr3hd5q5fk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.silentappRN"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
